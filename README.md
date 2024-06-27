@@ -2,4 +2,5 @@
 
 # activity_main.xml pas aan (layout)
 
+themes.xml nakijken
 
